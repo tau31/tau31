@@ -15,9 +15,13 @@ I'm like to perform tasks like:
 - Databases: PostgreSQL, DuckDB
 - Reporting and Visualization: Rmarkdown, Quarto, ggplot
 
+### Certificates
+- CompTIA A+ (12/2024)
+
 ### Get in touch ☎️
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiagocc/)
 - 🐘 [Mastodon](https://fosstodon.org/@tau31)
+
 
 <!--I am originally from Portugal 🇵🇹 and I have been living in Berlin 🇩🇪 for 8 years with my wife and my 3 young children 👶🏻👧🏻👦🏻.-->
 
