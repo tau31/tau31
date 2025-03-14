@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+My name is Tiago Cabaço and I'm a Data Scientist / Analyst / "one of those data people" 👨🏻‍💻 based in Berlin 🇩🇪.  
+
+I'm like to perform tasks like:
+- Collecting, Cleaning and Processing arge amounts of data;
+- Exploratory Data Analysis and Statistical Analysis;
+- Creating informative visualizations, reports and dashboards;
+- Building Software for data and statistical applications;
+- Setting up pipelines for automating and orchestrating tasks;
+- Creating DB infrastructure to consume and ingest data;
+
+### Toolbox 🧰 
+- Languages: R, Python, SQL and Bash
+- Databases: PostgreSQL, DuckDB
+- Reporting and Visualization: Rmarkdown, Quarto, ggplot
+
+### Get in touch ☎️
+- [LinkedIN](https://www.linkedin.com/in/tiagocc/)
+- [Mastodon](https://fosstodon.org/@tau31)
+
+<!--I am originally from Portugal 🇵🇹 and I have been living in Berlin 🇩🇪 for 8 years with my wife and my 3 young children 👶🏻👧🏻👦🏻.-->
+
+
+
 <!--
 **tau31/tau31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
