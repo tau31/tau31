@@ -16,8 +16,8 @@ I'm like to perform tasks like:
 - Reporting and Visualization: Rmarkdown, Quarto, ggplot
 
 ### Get in touch ☎️
-- [LinkedIN](https://www.linkedin.com/in/tiagocc/)
-- [Mastodon](https://fosstodon.org/@tau31)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiagocc/)
+- 🐘 [Mastodon](https://fosstodon.org/@tau31)
 
 <!--I am originally from Portugal 🇵🇹 and I have been living in Berlin 🇩🇪 for 8 years with my wife and my 3 young children 👶🏻👧🏻👦🏻.-->
 
