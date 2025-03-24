@@ -3,7 +3,7 @@
 My name is Tiago Cabaço and I'm a Data Scientist / Analyst / "one of those data people" 👨🏻‍💻 based in Berlin 🇩🇪.  
 
 I'm like to perform tasks like:
-- Collecting, Cleaning and Processing arge amounts of data;
+- Collecting, Cleaning and Processing large amounts of data;
 - Exploratory Data Analysis and Statistical Analysis;
 - Creating informative visualizations, reports and dashboards;
 - Building Software for data and statistical applications;
