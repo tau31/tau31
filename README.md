@@ -22,6 +22,11 @@ I'm like to perform tasks like:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiagocc/)
 - 🐘 [Mastodon](https://fosstodon.org/@tau31)
 
+## Projects
+
+You can find examples of my work on my portfolio [here](https://www.github.com/tau31/my-portfolio). 
+
+
 
 <!--I am originally from Portugal 🇵🇹 and I have been living in Berlin 🇩🇪 for 8 years with my wife and my 3 young children 👶🏻👧🏻👦🏻.-->
 
