@@ -24,7 +24,7 @@ I'm like to perform tasks like:
 
 ## Projects
 
-You can find examples of my work on my portfolio [here](https://www.github.com/tau31/my-portfolio). 
+You can find examples of my work on my portfolio [here](https://github.com/tau31/my-portfolio/blob/main/README.md). 
 
 
 
