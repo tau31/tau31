@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tiago Cabaço and I'm a Data Scientist / Analyst / "one of those data people" 👨🏻‍💻 based in Berlin 🇩🇪.  
+My name is Tiago Cabaço and I'm a Data Analyst 👨🏻‍💻📊📈 @ [Distribusion](https://www.distribusion.com/) based in Berlin 🇩🇪.  
 
 I'm like to perform tasks like:
 - Collecting, Cleaning and Processing large amounts of data;
